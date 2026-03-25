@@ -41,5 +41,8 @@
 *.dwo
 .DS_Store
 Lab2/.vscode/c_cpp_properties.json
-.gitignore
 Lab2/.vscode/settings.json
+
+# Moje pliki wykonywalne bez rozszerzenia (macOS)
+parking
+szablony
