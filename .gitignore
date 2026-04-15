@@ -43,7 +43,16 @@
 Lab2/.vscode/c_cpp_properties.json
 Lab2/.vscode/settings.json
 
+# Pliki binarne, bazy danych i pliki tymczasowe (np. z Lab 6)
+*.bin
+*.dat
+*.tmp
+
 # Moje pliki wykonywalne bez rozszerzenia (macOS)
 parking
 szablony
 ksiegarnia
+bininspect
+studentdb
+shapes_rtti
+executor
