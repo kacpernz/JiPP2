@@ -43,6 +43,9 @@
 Lab2/.vscode/c_cpp_properties.json
 Lab2/.vscode/settings.json
 
+# Konfiguracja VS Code 
+.vscode/
+
 # Pliki binarne, bazy danych i pliki tymczasowe (np. z Lab 6)
 *.bin
 *.dat
@@ -56,3 +59,5 @@ bininspect
 studentdb
 shapes_rtti
 executor
+zadanie_*
+!zadanie_*.cpp
